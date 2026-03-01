@@ -94,6 +94,6 @@ It focuses on practical process analysis and supports my preparation for an Ausb
 ---
 
 ## Author
-**Maha**
-**Maha**
+**Maha Hizam**
+
 
